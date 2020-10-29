@@ -1,2 +1,2 @@
 # Inherit common device configuration
-$(call inherit-product, device/samsung/universal9830-common/universal9830.mk)
+$(call inherit-product, device/samsung/universal9910-common/universal9910.mk)
